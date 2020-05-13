@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Test Post</title>
+      <link>https://www.hipft.net/posts/test-post/</link>
+      <pubDate>Tue, 12 May 2020 22:09:09 -0500</pubDate>
+      
+      <guid>https://www.hipft.net/posts/test-post/</guid>
+      <description>test</description>
+    </item>
+    
+    <item>
       <title>About</title>
       <link>https://www.hipft.net/about/</link>
       <pubDate>Tue, 12 May 2020 21:53:07 -0500</pubDate>
